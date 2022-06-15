@@ -1,6 +1,3 @@
-
-Added this line
-
-This file contails deployment script
+ This file contails deployment script
 
  hi bro
